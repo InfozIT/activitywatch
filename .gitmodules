@@ -1,10 +1,10 @@
 [submodule "aw-core"]
 	path = aw-core
-	url = https://github.com/ActivityWatch/aw-core.git
+	url = https://github.com/InfozIT/aw-core.git
 
 [submodule "aw-client"]
 	path = aw-client
-	url = https://github.com/ActivityWatch/aw-client.git
+	url = https://github.com/InfozIT/aw-client.git
 
 [submodule "aw-server"]
 	path = aw-server
